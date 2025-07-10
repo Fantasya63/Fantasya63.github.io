@@ -1,5 +1,5 @@
 # All classes
----
+
 ## Managers
 - [BuildableManager](./managers/buildable-manager.md)
 - [GameManager](./managers/game-manager.md)
@@ -8,4 +8,30 @@
 - [UIManager](./managers/ui-manager.md)
 
 ## Scripts
-- [Buildable](./)
+- [AnimateBuildableOnClickStep](./class-reference/.md)
+- [ApplyThermalPasteStep](./class-reference/apply-thermal-paste-step.md)
+- [BaseHoldable](./class-reference/base-holdable.md)
+- [Buildable](./class-reference/buildable.md)
+- [BuildableRamSocket](./class-reference/buildable-ram-socket.md)
+- [BuildableSocket](./class-reference/buildable-socket.md)
+- [BuildableStep](./class-reference/buildable-step.md)
+- [ClickAndAnimateStep](./class-reference/click-and-animate-step.md)
+- [HideObjectStep](./class-reference/hide-object-step.md)
+- [HideStep](./class-reference/hide-step.md)
+- [IInteractable](./class-reference/iinteractable.md)
+- [IntersectionDetector](./class-reference/intersection-detector.md)
+- [ItemHoldable](./class-reference/item-holdable.md)
+- [MoveBuildableStep](./class-reference/move-buildable-step.md)
+- [MoveObjectStep](./class-reference/move-object-step.md)
+- [Paintable](./class-reference/paintable.md)
+- [Painter](./class-reference/painter.md)
+- [PartHoldable](./class-reference/part-holdable.md)
+- [PlaceBuildableStep](./class-reference/place-buildable-step.md)
+- [PlayAnimationStep](./class-reference/play-animation-step.md)
+- [PlayAnimatorAnimStep](./class-reference/play-animator-anim-step.md)
+- [RemoveScrewsStep](./class-reference/remove-screws-step.md)
+- [Screw](./class-reference/screw.md)
+- [ShowObjectStep](./class-reference/show-object-step.md)
+- [ShowStep](./class-reference/show-step.md)
+- [TransitionCameraStep](./class-reference/transition-camera-step.md)
+- [UnlockCameraStep](./class-reference/unlock-camera-step.md)
