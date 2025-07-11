@@ -24,7 +24,7 @@
     - [HideObjectStep](./class-reference/scripts/hide-object-step.md)
     - [HideStep](./class-reference/scripts/hide-step.md)
     - [HoldableManager](./class-reference/managers/holdable-manager.md)
-    - [IInteractable](./class-reference/scripts/iinteractable.md)
+    - [IInteractable](./class-reference/scripts/i-interactable.md)
     - [IntersectionDetector](./class-reference/scripts/intersection-detector.md)
     - [ItemHoldable](./class-reference/scripts/item-holdable.md)
     - [MoveBuildableStep](./class-reference/scripts/move-buildable-step.md)
@@ -46,10 +46,5 @@
 
 ---
 
-# Shaders
-- [CPU Shader](./shaders/cpu-shader.md)
-
----
-
-# Diagrams
-- [Class Diagram](./diagrams/class-diagram.md)
+# Known Issues
+- [Issues](./issues.md)
